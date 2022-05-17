@@ -24,5 +24,10 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void Bttn1_Click(object sender, RoutedEventArgs e)
+        {
+            TextBlock1.Text = "Hola " + TextBox.Text;
+        }
     }
 }
