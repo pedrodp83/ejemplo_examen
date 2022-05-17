@@ -9,5 +9,6 @@
     <Grid>
         <TextBox x:Name="TextBox" HorizontalAlignment="Left" Margin="237,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" Height="49"/>
         <Button x:Name="Bttn1" Content="Enviar cambios" HorizontalAlignment="Left" Margin="335,192,0,0" VerticalAlignment="Top" Height="25" Width="169"/>
+        <TextBlock x:Name="TextBlock1" HorizontalAlignment="Left" Margin="335,342,0,0" TextWrapping="Wrap" Text="Su texto es:" VerticalAlignment="Top" Width="146"/>
     </Grid>
 </Window>
